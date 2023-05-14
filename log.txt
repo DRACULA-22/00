@@ -1,0 +1,13 @@
+[2023/04/14 14:06:17] ===============================================
+[2023/04/14 14:06:17] ===== Ventoy2Disk 1.0.91 127.0.0.1:24680 =====
+[2023/04/14 14:06:17] ===============================================
+[2023/04/14 14:06:17] ventoy_disk_enumerate_all
+[2023/04/14 14:06:17] get disk info sda
+[2023/04/14 14:06:17] is 4k native disk <sda> <0>
+[2023/04/14 14:06:17] get disk size from sysfs for sda
+[2023/04/14 14:06:17] ventoy_get_vtoy_data /dev/sda
+[2023/04/14 14:06:17] Not valid ventoy partition layout [2046 771969026] [0 0]
+[2023/04/14 14:06:17] disk:</dev/sda 8:0> model:<ATA TOSHIBA MQ01ABD0 (scsi)> size:500107862016 (512 GB)
+[2023/04/14 14:06:17] /dev/sda NO Ventoy detected
+[2023/04/14 14:06:17] ============= DISK DUMP ============
+[2023/04/14 14:06:17] /dev/sda [512 GB] ATA TOSHIBA MQ01ABD0 (scsi)	Ventoy: NA
